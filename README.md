@@ -1,2 +1,55 @@
 # RED4BUKKIT
-made by ozaii1337
+
+## ICERIK:
+- Eventsler:
+ - GameWonEvent
+ - GameLoseEvent
+ - EarnTheCoinEvent
+ - EarnTheXPEvent
+ - EarnTheLevelEvent
+- PlayerLog
+ - Nick
+ - Komutlar
+ - Sohbet
+ - Kordinatlar
+ - MainHands
+ - Envanter
+ - Login/Quit
+- ChestLogs(Oyucu açınca)
+- Booleans
+ - PvpKoruması
+ - DatabaseMod
+ - LoggerMod
+ - DiscordChat
+ - AdminGuard
+ - 2AD
+- NewCommands
+ - Lobby
+ - Friends
+ - Clan
+ - Profil
+ - Kozmetik
+ - Sandık
+ - Ödül
+ - Sohbet geçmişim
+- AdminCommands
+ - GM 1 2 3
+ - Kill All
+ - Tp All
+ - Kick All
+ - Bakım modu
+ - SetMaxPlayer
+ - SetMinPlayers(oyuncu sayisi duserse kapanir )
+ - Cezalandır ( hosunuza gidicek)
+ - Control
+ - Profil (args args)
+ - SiteSorgu ( Minexon /leaderos)
+- Special Settings
+ - WebScript
+ - SomeBooleans
+ - AdminPrefix
+- Systems
+ - Firends
+ - Clan
+ - Ban/Mute/vs
+ - PlayerSizeAPI
