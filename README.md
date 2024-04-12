@@ -1,55 +1,64 @@
-# RED4BUKKIT
+# Red4Bukkit
 
-## ICERIK:
-- Eventsler:
- - GameWonEvent
- - GameLoseEvent
- - EarnTheCoinEvent
- - EarnTheXPEvent
- - EarnTheLevelEvent
-- PlayerLog
- - Nick
- - Komutlar
- - Sohbet
- - Kordinatlar
- - MainHands
- - Envanter
- - Login/Quit
-- ChestLogs(Oyucu açınca)
-- Booleans
- - PvpKoruması
- - DatabaseMod
- - LoggerMod
- - DiscordChat
- - AdminGuard
- - 2AD
-- NewCommands
- - Lobby
- - Friends
- - Clan
- - Profil
- - Kozmetik
- - Sandık
- - Ödül
- - Sohbet geçmişim
-- AdminCommands
- - GM 1 2 3
- - Kill All
- - Tp All
- - Kick All
- - Bakım modu
- - SetMaxPlayer
- - SetMinPlayers(oyuncu sayisi duserse kapanir )
- - Cezalandır ( hosunuza gidicek)
- - Control
- - Profil (args args)
- - SiteSorgu ( Minexon /leaderos)
-- Special Settings
- - WebScript
- - SomeBooleans
- - AdminPrefix
-- Systems
- - Firends
- - Clan
- - Ban/Mute/vs
- - PlayerSizeAPI
+## İçerik:
+- **Olaylar:**
+  - OyunKazanmaOlayı
+  - OyunKaybetmeOlayı
+  - ParaKazanmaOlayı
+  - DeneyimKazanmaOlayı
+  - SeviyeKazanmaOlayı
+
+- **Oyuncu Günlükleri:**
+  - TakmaAd
+  - Komutlar
+  - Sohbet
+  - Koordinatlar
+  - AnaSilahlar
+  - Eşyalar
+  - Giriş/Çıkış
+
+- **Sandık Günlükleri:**
+  - SandıkAçma
+
+- **Boolean Değerler:**
+  - PvpKoruma
+  - VeritabanıModu
+  - GünlükçüModu
+  - DiscordSohbet
+  - AdminKoruma
+  - İkiAdımlıDoğrulama
+
+- **Yeni Komutlar:**
+  - Lobby
+  - Arkadaşlar
+  - Klan
+  - Profil
+  - Kozmetik
+  - Sandık
+  - Ödül
+  - SohbetGeçmişi
+
+- **Yönetici Komutları:**
+  - GM (Oyun Modu)
+  - HepsiniÖldür
+  - HepsiniTp
+  - HepsiniAt
+  - BakımModu
+  - MaksimumOyuncuAyarla
+  - MinimumOyuncuAyarla
+  - Cezalandır
+  - Kontrol
+  - Profil
+  - SiteSorgu
+
+- **Özel Ayarlar:**
+  - WebBetik
+  - BazıBooleanlar
+  - YöneticiÖnek
+
+- **Sistemler:**
+  - Arkadaşlar
+  - Klan
+  - Yasak/Susturma/vs
+  - OyuncuBoyutAPI
+
