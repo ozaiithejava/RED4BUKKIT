@@ -23,7 +23,6 @@
 - **Boolean Değerler:**
   - PvpKoruma
   - VeritabanıModu
-  - GünlükçüModu
   - DiscordSohbet
   - AdminKoruma
   - İkiAdımlıDoğrulama
@@ -52,7 +51,7 @@
   - SiteSorgu
 
 - **Özel Ayarlar:**
-  - WebBetik
+  - WebEnum
   - BazıBooleanlar
   - YöneticiÖnek
 
